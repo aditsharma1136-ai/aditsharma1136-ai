@@ -8,6 +8,6 @@
 
 ```bash
 > Booting JARVIS Core...
-> User: Aditya Sharma ✔
+> User: Aditya kr Sharma ✔
 > Role: AI + Full Stack Developer (in progress)
 > Status: ACTIVE 🟢
